@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "one_market",
-    "slug": "one_market",
+    "slug": "one-market",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,8 +32,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "417e73db-e8bb-4d08-a377-af8317a2413b"
+        "projectId": "440909b5-8e52-4aed-8dac-6a04a206c0a9"
       }
-    }
+    },
+    "owner": "tauqeer180"
   }
 }
